@@ -1,3 +1,6 @@
+# Ignore executables
+*.exe
+
 # Logs
 logs
 *.log
